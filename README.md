@@ -5,7 +5,7 @@ Here Geolocation API is used which returns a location and accuracy radius based 
 nodes that the mobile client can detect.
 
 
-ROUGH PROTOTYPE MODEL
+
 Registration Form : 
 A registration form is a list of fields that a user will input data into 
 and submit it to a server. To provide safety service, the server 
