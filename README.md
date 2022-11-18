@@ -27,5 +27,23 @@ The above image shows the main page where a women can add her contact ,call a he
   
 There in an emergency button on the main page in case of emergency  women can press it and the alert will  be sent to the required places.  
   
+![image](https://user-images.githubusercontent.com/84896867/202673028-eff1e955-88bd-430c-b225-5cc61b1a0f7a.png)
   
+  In the above we can see there is option to add the number delete the number and view the list of number.  
+  
+In next image we can see women can call ambulance, women helpline number and police.  
+  
+  
+  
+  
+  
+  ![image](https://user-images.githubusercontent.com/84896867/202673163-2032b067-0c30-4dd8-8900-8285966dfcc5.png)
+
+    
+ 
+In this image we can see that call is generated to police similarly we can do it for ambulance and helpline number.  
+  
+In second image we can see that location is sent to the women’s father we can also send it to multiple people at a time.  
+  
+
 
