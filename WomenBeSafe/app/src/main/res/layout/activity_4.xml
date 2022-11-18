@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:background="#236FB6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></ImageView>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+                <TextView
+                    android:textSize="60px"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="60dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/purple_200"
+                    android:textStyle="bold"
+                    android:linksClickable="true"
+                    android:text="(1) Carry a pepper spray with you, always and keep it handy. Don’t tuck it too low in your bag.
+            \n(2) When you are travelling in an auto alone, make sure you share the auto number with someone in your family even if it’s during the day.
+            \n(3) When in office, avoid going to isolated areas with no CCTV cameras.
+            \n(4) Whenever you are posting anything on social media, make sure you don’t do it in real-time. Because if you do, you’re telling people on your social media about your whereabouts. Delay those posts by say, 20-30 minutes.
+            \n(5) If you feel someone is stalking you, try to find a crowded place and call someone for help.
+            \n(6) When you are walking on a road, keep your mobile phone handy but avoid using it. Being on the phone makes you less alert."
+                    android:textColor="@color/black"></TextView>
+            </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
